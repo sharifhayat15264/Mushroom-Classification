@@ -18,9 +18,13 @@ Predict whether a mushroom is `edible` or `poisonous`.
 # Conclusion
 
 Model                     Accuracy      F1-Score
+
 Logistic Regression        94.9%          0.94
+
 Support Vector Machine     98.6%          0.99
+
 Keras Classifier           100%           1.0
+
 
 In conclusion, the Neural Network model performed the best on the test data, followed by the Support Vector Classifier.
 
